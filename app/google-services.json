@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150611187981",
+    "project_id": "finnsathii",
+    "storage_bucket": "finnsathii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150611187981:android:c609a8a5365ac1f2d03844",
+        "android_client_info": {
+          "package_name": "ro.si.finnsathii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQnwbbz9ugTnfnP2ySzjgBGJ4oSlH-aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
